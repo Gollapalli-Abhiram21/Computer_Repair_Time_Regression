@@ -1,7 +1,7 @@
 
 # COMPUTER_REPAIR_TIME_REGRESSION
 
-A machine learning project illustrating how to build and validate simple linear regression models to predict computer repair times based on the number of faulty units.
+This project demonstrates how to predict computer repair times using simple and multiple linear regression models. It covers manual regression calculation as well as model building with scikit-learn, and produces visualizations and validation outputs for thorough analysis.
 
 ---
 
@@ -58,7 +58,7 @@ COMPUTER_REPAIR_TIME_REGRESSION/
    python -m venv .venv
    ```
 3. Activate the virtual environment:
-   - Windows: `.venv\Scriptsctivate`
+   - Windows: `.venv\Scripts\activate`
    - macOS/Linux: `source .venv/bin/activate`
 4. Install required packages:
    ```
